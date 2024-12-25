@@ -1,16 +1,16 @@
-Dog vs Cat Classification using MobileNet
+## Dog vs Cat Classification using MobileNet
 
 This project implements a deep learning model to classify images of dogs and cats using the MobileNet architecture. It leverages the Kaggle API for dataset retrieval and includes training, evaluation, and deployment steps.
 
-Features
+### Features
 
-Efficient Model: Utilizes MobileNet for fast and lightweight image classification.
+**Efficient Model** : Utilizes MobileNet for fast and lightweight image classification.
 
-Dataset Integration: Automatically downloads and extracts the dataset from Kaggle.
+**Dataset Integration**: Automatically downloads and extracts the dataset from Kaggle.
 
-Training Pipeline: Includes data preprocessing, model training, and evaluation.
+**Training Pipeline**: Includes data preprocessing, model training, and evaluation.
 
-High Accuracy: Aims for high classification accuracy on unseen data.
+**High Accuracy**: Aims for high classification accuracy on unseen data.
 
 Setup Instructions
 
