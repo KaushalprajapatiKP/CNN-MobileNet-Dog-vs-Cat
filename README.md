@@ -1,1 +1,1 @@
-# CNN-MobileNet-Dog-vs-Cat
+# CNN-dog-vs-cat-MobileNet
