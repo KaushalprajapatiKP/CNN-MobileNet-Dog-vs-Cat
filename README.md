@@ -28,8 +28,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/dog-vs-cat-mobilenet.git
-cd dog-vs-cat-mobilenet
+git clone [https://github.com/KaushalprajapatiKP/CNN-MobileNet-Dog-vs-Cat]
 
 Install dependencies:
 
